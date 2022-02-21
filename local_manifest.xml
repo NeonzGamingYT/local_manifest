@@ -4,6 +4,6 @@
  <!-- Trees -->
  <project path="device/xiaomi/lava" name="NeonzGamingYT/android_device_xiaomi_lava.git" remote="github" revision="eleven" />
  <project path="vendor/xiaomi/lava" name="NeonzGamingYT/android_vendor_xiaomi_lava.git" remote="github" revision="eleven" />
- <project path="kernel/xiaomi/lava" name="NeonzGamingYT/android_kernel_xiaomi_mt6768.git" remote="github" revision="eleven" />
+ <project path="kernel/xiaomi/mt6768" name="NeonzGamingYT/android_kernel_xiaomi_mt6768.git" remote="github" revision="eleven" />
 
 </manifest>
